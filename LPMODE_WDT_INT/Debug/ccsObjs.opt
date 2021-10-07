@@ -1,0 +1,1 @@
+"./LPMODE_WDT_INT.obj" "../lnk_msp430g2553.cmd" -llibc.a 

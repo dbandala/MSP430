@@ -1,0 +1,1 @@
+"./LOW_POWER_MODE_LPM4_PI_ISR.obj" "../lnk_msp430g2553.cmd" -llibc.a 
