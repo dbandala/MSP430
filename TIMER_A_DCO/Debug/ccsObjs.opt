@@ -1,0 +1,1 @@
+"./TIMER_A_DCO.obj" "../lnk_msp430g2553.cmd" -llibc.a 
