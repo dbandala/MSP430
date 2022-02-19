@@ -1,0 +1,1 @@
+"./LOW_POWER_MODE_LPM3_WDT_ACLK_C.obj" "../lnk_msp430g2553.cmd" -llibc.a 
