@@ -1,0 +1,1 @@
+"./ADC_SENSOR_INTERNO_TIMER_A.obj" "../lnk_msp430g2553.cmd" -llibc.a 
