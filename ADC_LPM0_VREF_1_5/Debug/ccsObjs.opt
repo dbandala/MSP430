@@ -1,0 +1,1 @@
+"./ADC_LPM0_VREF_1_5.obj" "../lnk_msp430g2553.cmd" -llibc.a 
